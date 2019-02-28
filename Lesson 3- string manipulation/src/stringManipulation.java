@@ -9,6 +9,10 @@ public class stringManipulation {
 		 * name.substring(4); String fname = name.substring(0,5);
 		 * System.out.println(fname + lname);
 		 */
+	String s1="Allan Alda";
+	String s2 ="John Wayne";
+	String s3 = "Gregory Peck";
+	System.out.println();
 	}
 
 }
