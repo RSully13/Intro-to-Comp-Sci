@@ -18,9 +18,9 @@ public class stringManipulation {
 	String lname2 = s2.substring(5,7);
 	String fname3 = s3.substring(2,7);
 	String lname3 = s3.substring(8,9);
-	System.out.println("Allan Alda>>>"+ fname1 + " " + lname1);
-	System.out.println("John Wayne>>>"+ fname2 + " " + lname2);
-	System.out.println("Gregory Peck>>>"+ fname3 + " " + lname3);
+	System.out.println(s1 +">>>"+ fname1 + " " + lname1);
+	System.out.println(s2 +">>>"+ fname2 + " " + lname2);
+	System.out.println(s3 +">>>"+ fname3 + " " + lname3);
 	
 	}
 
