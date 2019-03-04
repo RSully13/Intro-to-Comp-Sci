@@ -20,7 +20,7 @@ public class stringManipulation {
 	String lname3 = s3.substring(8,9);
 	System.out.println("Allan Alda>>>"+ fname1 + " " + lname1);
 	System.out.println("John Wayne>>>"+ fname2 + " " + lname2);
-	System.out.println("Gregory Pec>>>"+ fname3 + " " + lname3);
+	System.out.println("Gregory Peck>>>"+ fname3 + " " + lname3);
 	
 	}
 
