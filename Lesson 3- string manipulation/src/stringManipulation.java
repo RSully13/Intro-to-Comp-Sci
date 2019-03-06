@@ -21,7 +21,6 @@ public class stringManipulation {
 	System.out.println(s1 +">>>"+ fname1 + " " + lname1);
 	System.out.println(s2 +">>>"+ fname2 + " " + lname2);
 	System.out.println(s3 +">>>"+ fname3 + " " + lname3);
-	
 	}
 
 }
